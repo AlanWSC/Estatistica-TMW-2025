@@ -1,6 +1,6 @@
 # Estatística 2025
 
-Estudos de estatística: Atualmente na aula 05/22
+Estudos de estatística: Atualmente na aula 09/22
 
 Curso de Estatística 2025 ministrado pelo Téo Me Why ao vivo, na [twitch.tv/teomewhy](twitch.tv/teomewhy).
 
